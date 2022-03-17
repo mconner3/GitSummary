@@ -1,4 +1,4 @@
 "#dreamteam"
 "secret new message"
 "secret message 2"
-"Another line - Michael Conner"
+"This line is added from the remote by ME"
